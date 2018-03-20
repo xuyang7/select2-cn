@@ -1,7 +1,7 @@
 ---
-标题: 入门指南
-分类:
-    目录: docs
+title: 入门指南
+tax:
+    category: docs
 process:
     twig: true
 twig_first: true
